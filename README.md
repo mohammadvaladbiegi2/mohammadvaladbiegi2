@@ -9,7 +9,7 @@ I am a JavaScript Developer with expertise in building full-stack applications u
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on a project named **Parvande** ([Website](https://parvande.app/))
+- 🔭 &nbsp; I’m currently working on a project named **Parvande** ([Website](https://parvande.org/))
 - 🌱 &nbsp; I’m currently learning **Go (Golang)**
 - 👨🏻‍💻 &nbsp; One of my recent projects is **Sabzlearn** ([Website](https://sabzlearn-psi.vercel.app/), [GitHub Repo](https://github.com/mohammadvaladbiegi2/sabzlearn))
 - 🤝 &nbsp; Another project I worked on is **Nerkhin** ([Website](https://nerrkhin.com/))
@@ -42,7 +42,7 @@ I am a JavaScript Developer with expertise in building full-stack applications u
 
 ### 🛠️ My Projects
 
-<a href="https://parvande.app/" target="_blank"> <img alt="parvande" src="https://parvande.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapple-touch-icon.4f9a875d.png&w=128&q=75" height="68" align="left"> </a>
+<a href="https://parvande.org/" target="_blank"> <img alt="parvande" src="https://parvande.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapple-touch-icon.4f9a875d.png&w=128&q=75" height="68" align="left"> </a>
 <a href="https://sabzlearn-psi.vercel.app/" target="_blank"> <img alt="sabzlearn" src="https://sabzlearn-psi.vercel.app/_next/image?url=%2Fimage%2Flogo.webp&w=96&q=75" height="68" align="left"> </a>
 <a href="https://mohammadvaladbiegi2.github.io/Divarwebpage/" target="_blank"> <img alt="Divar" src="https://s100.divarcdn.com/static/thewall-assets/android-chrome-512x512.png" height="68" align="left"> </a>
 
